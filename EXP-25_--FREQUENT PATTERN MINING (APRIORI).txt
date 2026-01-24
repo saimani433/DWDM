@@ -1,0 +1,15 @@
+@relation market_basket
+
+@attribute milk {Yes,No}
+@attribute bread {Yes,No}
+@attribute butter {Yes,No}
+@attribute jam {Yes,No}
+
+@data
+Yes,Yes,No,No
+Yes,Yes,Yes,No
+No,Yes,Yes,Yes
+Yes,No,Yes,No
+Yes,Yes,Yes,Yes
+No,Yes,No,Yes
+Yes,No,Yes,Yes

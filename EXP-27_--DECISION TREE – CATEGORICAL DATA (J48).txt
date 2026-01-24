@@ -1,0 +1,14 @@
+@relation student_result
+
+@attribute attendance numeric
+@attribute internal_marks numeric
+@attribute assignment numeric
+@attribute result {Pass,Fail}
+
+@data
+85,78,80,Pass
+65,55,60,Fail
+90,88,92,Pass
+70,62,65,Fail
+95,91,94,Pass
+60,50,55,Fail

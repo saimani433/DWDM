@@ -1,0 +1,28 @@
+@relation student_performance
+
+@attribute reg_no numeric
+@attribute name string
+@attribute age numeric
+@attribute gender {Male,Female}
+@attribute attendance numeric
+@attribute internal_marks numeric
+@attribute assignment_score numeric
+@attribute final_result {Pass,Fail}
+
+@data
+101,"Ravi",20,Male,85,78,80,Pass
+102,"Sita",21,Female,90,88,92,Pass
+103,"Kiran",19,Male,65,55,60,Fail
+104,"Anita",20,Female,95,91,94,Pass
+105,"Manoj",22,Male,70,62,65,Fail
+106,"Priya",21,Female,88,84,86,Pass
+107,"Arjun",20,Male,60,50,55,Fail
+108,"Divya",19,Female,92,90,93,Pass
+109,"Suresh",22,Male,75,70,72,Pass
+110,"Lakshmi",21,Female,80,78,79,Pass
+111,"Rahul",20,Male,68,60,63,Fail
+112,"Meena",19,Female,94,92,95,Pass
+113,"Vamsi",21,Male,72,68,70,Pass
+114,"Kavya",20,Female,89,85,88,Pass
+115,"Naveen",22,Male,66,58,60,Fail
+

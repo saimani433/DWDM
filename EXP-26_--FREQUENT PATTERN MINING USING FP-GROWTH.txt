@@ -1,0 +1,14 @@
+@relation fp_growth
+
+@attribute itemA {Yes,No}
+@attribute itemB {Yes,No}
+@attribute itemC {Yes,No}
+@attribute itemD {Yes,No}
+
+@data
+Yes,Yes,No,Yes
+Yes,No,Yes,Yes
+No,Yes,Yes,No
+Yes,Yes,Yes,Yes
+No,Yes,No,Yes
+Yes,No,Yes,No

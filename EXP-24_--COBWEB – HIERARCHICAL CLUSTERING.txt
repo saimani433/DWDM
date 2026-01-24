@@ -1,0 +1,16 @@
+@relation cobweb_data
+
+@attribute age numeric
+@attribute gender {Male,Female}
+@attribute income numeric
+@attribute category {Low,Medium,High}
+
+@data
+22,Male,15000,Low
+25,Female,18000,Medium
+28,Male,25000,Medium
+35,Female,40000,High
+42,Male,50000,High
+30,Female,22000,Medium
+23,Male,16000,Low
+27,Female,28000,Medium

@@ -1,0 +1,16 @@
+@relation classifier_test
+
+@attribute age numeric
+@attribute income numeric
+@attribute purchase {Yes,No}
+
+@data
+22,15000,No
+25,18000,No
+28,25000,Yes
+35,40000,Yes
+42,50000,Yes
+30,22000,No
+23,16000,No
+38,45000,Yes
+

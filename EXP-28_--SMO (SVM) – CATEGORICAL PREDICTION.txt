@@ -1,0 +1,13 @@
+@relation credit_approval
+
+@attribute income numeric
+@attribute credit_score numeric
+@attribute loan_status {Approved,Rejected}
+
+@data
+25000,650,Approved
+18000,550,Rejected
+40000,720,Approved
+22000,580,Rejected
+50000,780,Approved
+20000,560,Rejected

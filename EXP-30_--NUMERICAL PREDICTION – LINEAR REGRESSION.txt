@@ -1,0 +1,13 @@
+@relation house_price
+
+@attribute area numeric
+@attribute bedrooms numeric
+@attribute price numeric
+
+@data
+800,2,2500000
+1000,3,3500000
+1200,3,4200000
+1500,4,5500000
+1800,4,6500000
+2000,5,7500000

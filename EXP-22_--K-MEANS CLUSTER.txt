@@ -1,0 +1,17 @@
+@relation kmeans_customer
+
+@attribute age numeric
+@attribute income numeric
+@attribute spending_score numeric
+
+@data
+22,15000,30
+25,18000,40
+28,25000,60
+35,40000,75
+42,50000,80
+30,22000,50
+23,16000,35
+27,28000,65
+38,45000,78
+45,52000,85
